@@ -1,0 +1,14 @@
+lib/
+ ├── main.dart
+ ├── screens/
+ │    ├── home_screen.dart
+ │    ├── conferencia_screen.dart
+ │    └── resultado_screen.dart
+ ├── models/
+ │    └── produto_model.dart
+ ├── services/
+ │    ├── xml_service.dart
+ │    └── database_service.dart
+ └── widgets/
+      └── item_card.dart
+
